@@ -33,7 +33,7 @@ namespace TDC_Version_0._0._1
     }
 }
 ```
-![image](![image_2024-07-02_09-23-39](https://github.com/rizeshawty/Two-Digit-Calculator/assets/132708222/8f35ef88-bd10-458d-a9df-dde33861bd21)
+![image](https://github.com/rizeshawty/Two-Digit-Calculator/blob/TDC-Version-0.0.1/image_2024-07-02_09-23-39.png?raw=true)
 )
 
 ### Требования
