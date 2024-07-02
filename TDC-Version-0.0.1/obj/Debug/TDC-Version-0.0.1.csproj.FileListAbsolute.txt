@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\obj\Debug\TDC-Version-0.0.1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\obj\Debug\TDC_Version_0._0._1.Main.resources
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\obj\Debug\TDC_Version_0._0._1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\obj\Debug\TDC-Version-0.0.1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\obj\Debug\TDC-Version-0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\bin\Debug\TDC-Version-0.0.1.exe.config
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\bin\Debug\TDC-Version-0.0.1.exe
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\bin\Debug\TDC-Version-0.0.1.pdb
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\obj\Debug\TDC-Vers.CB411E03.Up2Date
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\obj\Debug\TDC-Version-0.0.1.exe
+C:\Users\Admin\Desktop\Рабочая\Бочкарев Данил Дмитриевич\Работа\GitHub\Two-Digit-Calculator\TDC-Version-0.0.1\obj\Debug\TDC-Version-0.0.1.pdb
