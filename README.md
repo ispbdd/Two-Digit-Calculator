@@ -34,7 +34,6 @@ namespace TDC_Version_0._0._1
 }
 ```
 ![image](https://github.com/rizeshawty/Two-Digit-Calculator/blob/TDC-Version-0.0.1/image_2024-07-02_09-23-39.png?raw=true)
-)
 
 ### Требования
 Для установки и запуска, необходим [Visual Studio](https://visualstudio.microsoft.com/).
